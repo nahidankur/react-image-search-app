@@ -1,6 +1,6 @@
 # React Image Search App
 
-It's a react app made with `TAILWINDCSS` which allows to dynamically search images from pixabay website. Just Search and instantly get result!
+It's a react app made with `TAILWINDCSS` which allows to search images from the pixabay website. Just Search and instantly get result!
 
 # Usage
 
