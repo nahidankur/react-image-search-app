@@ -4,7 +4,7 @@ It's a react app which allows to dynamically search images from pixabay website.
 
 # Usage
 
-# First Install dependencies
+First Install dependencies
 
 `npm install`
 
